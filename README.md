@@ -14,5 +14,5 @@ A professional, responsive sales landing page built with HTML and CSS, hosted on
 ## 🛠️ Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Victorad.28/VIKKAHUB.git
+   git clone https://github.com/Viktova628/VIKKAHUB.git
    cd VIKKAHUB
